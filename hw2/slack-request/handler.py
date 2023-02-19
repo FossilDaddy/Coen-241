@@ -10,9 +10,9 @@ def handle(req):
                 "value": "100",
                 "short": True
             }],
-            "author_name": <FILL IN THE BLANK>,
+            "author_name": "Xiao Yang",
             "author_icon": "",
-            "image_url": <FILL IN THE BLANK>
+            "image_url": "https://avatars.githubusercontent.com/FossilDaddy"
         },
         {
             "title": "About COEN 241",
